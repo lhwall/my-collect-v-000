@@ -1,4 +1,4 @@
-=begin def my_collect(array)
+begin def my_collect(array)
   updated_array = []
   i = 0 
   while array.length > i
@@ -7,5 +7,5 @@
   i += 1
 end
 updated_array
-=end
+end
 
