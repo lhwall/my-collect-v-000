@@ -8,5 +8,4 @@ begin def my_collect(array)
 end
 updated_array
 end
-end
 
